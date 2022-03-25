@@ -9,9 +9,6 @@ body {
   line-height: 1;
   text-align: center;
   color: var(--text-color);
-
-min-height: 100vh;
-
   background-color: var(--primary-bg-color);
 }
 h2 {
