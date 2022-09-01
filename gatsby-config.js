@@ -1,4 +1,5 @@
 module.exports = {
+    pathPrefix: '/lazehang',
     siteMetadata: {
         title: `Mangal Hang Limbu | lazehang`,
         author: {
