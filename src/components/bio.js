@@ -33,7 +33,6 @@ const Bio = () => {
         <div className="grid md:grid-cols-2 gap-10 items-center justify-center md:py-10">
             <div className="md:order-2">
                 <StaticImage
-                    formats={['auto', 'webp', 'avif']}
                     src="../images/profile-pic.jpg"
                     width={700}
                     height={700}

@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "lazehang",
   "private": true,
   "description": "A personal website",
   "version": "0.1.0",
@@ -36,16 +36,12 @@
     "gh-pages": "^4.0.0",
     "prettier": "^2.4.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "lazehang",
+    "portfolio",
   ],
-  "license": "0BSD",
   "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
-  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
