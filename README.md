@@ -1,4 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">,
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/lazehang/my-stack)
+
 I'm Mangal Hang (lazehang).
 
 ### Skills
